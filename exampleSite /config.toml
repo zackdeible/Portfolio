@@ -6,6 +6,7 @@ title = "Zack Deible"
 disqusShortname = "stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
 canonifyURLs = true
+publishDir = "docs"
 [permalinks]
     post = "/p/:slug/"
     page = "/:slug/"
