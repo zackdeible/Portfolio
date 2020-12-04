@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zack Deible</title>
+    <link>https://zackdeible.github.io/Portfolio/post/</link>
+    <description>Recent content in Posts on Zack Deible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zackdeible.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vandra JMS</title>
+      <link>https://zackdeible.github.io/Portfolio/p/test-chinese/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/test-chinese/</guid>
+      <description>Current Progress:  A web and desktop app that supports interactive kanban boards for job applications and communications, extensive database of recruiters, cold-email generator and resume and cover letter builders. Chrome extensions with application workflows for LinkedIn and Glassdoor to automaticall add job application information to your kanban board Supported by funding source FastTrack Accelerator launched by LaunchBox Happy Valley. Working with advisors to expand on the product  Demo  Desktop Version: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Bolt Music</title>
+      <link>https://zackdeible.github.io/Portfolio/p/bolt-music/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/bolt-music/</guid>
+      <description>Current Progress:  Fullstack webapp created with Django and uses Spotifys API that allows users to log into Spotify to see top music and artists based off music history and export top 50 songs into a playlist in your library  In Development:  Apple Music and Spotify Music users can both login and create playlists and share music together Follow friends and other users to see their music tastes and discover music Social Media Feed to share music, playlists, and other music related news to your followers  Demo: </description>
+    </item>
+    
+    <item>
+      <title>Udemy Courses</title>
+      <link>https://zackdeible.github.io/Portfolio/p/udemy-courses/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/udemy-courses/</guid>
+      <description>Courses </description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality Navigation</title>
+      <link>https://zackdeible.github.io/Portfolio/p/augmented-reality-navigation/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/augmented-reality-navigation/</guid>
+      <description>Current Progress:  Created an augmented reality application using Microsofts Spatial Anchors to map to to specific locations.  </description>
+    </item>
+    
+    <item>
+      <title>Podchunk</title>
+      <link>https://zackdeible.github.io/Portfolio/p/podchunk/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/podchunk/</guid>
+      <description>Current Progress:  Developed Javascript webplayer that clips podcasts at timestamps and saves them to play in a playlist format  </description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://zackdeible.github.io/Portfolio/p/markdown-syntax-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://zackdeible.github.io/Portfolio/p/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://zackdeible.github.io/Portfolio/p/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Portfolio/p/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
