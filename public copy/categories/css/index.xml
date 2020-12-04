@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on Zack Deible</title>
+    <link>https://zackdeible.github.io/Deible_Portfolio/categories/css/</link>
+    <description>Recent content in CSS on Zack Deible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zackdeible.github.io/Deible_Portfolio/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolt Music</title>
+      <link>https://zackdeible.github.io/Deible_Portfolio/p/bolt-music/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Deible_Portfolio/p/bolt-music/</guid>
+      <description>Current Progress:  Fullstack webapp created with Django and uses Spotifys API that allows users to log into Spotify to see top music and artists based off music history and export top 50 songs into a playlist in your library  In Development:  Apple Music and Spotify Music users can both login and create playlists and share music together Follow friends and other users to see their music tastes and discover music Social Media Feed to share music, playlists, and other music related news to your followers  Demo: </description>
+    </item>
+    
+    <item>
+      <title>Podchunk</title>
+      <link>https://zackdeible.github.io/Deible_Portfolio/p/podchunk/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Deible_Portfolio/p/podchunk/</guid>
+      <description>Current Progress:  Developed Javascript webplayer that clips podcasts at timestamps and saves them to play in a playlist format  </description>
+    </item>
+    
+  </channel>
+</rss>

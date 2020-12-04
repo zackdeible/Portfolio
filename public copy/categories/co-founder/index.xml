@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Co-Founder on Zack Deible</title>
+    <link>https://zackdeible.github.io/Deible_Portfolio/categories/co-founder/</link>
+    <description>Recent content in Co-Founder on Zack Deible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zackdeible.github.io/Deible_Portfolio/categories/co-founder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vandra JMS</title>
+      <link>https://zackdeible.github.io/Deible_Portfolio/p/test-chinese/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Deible_Portfolio/p/test-chinese/</guid>
+      <description>Current Progress:  A web and desktop app that supports interactive kanban boards for job applications and communications, extensive database of recruiters, cold-email generator and resume and cover letter builders. Chrome extensions with application workflows for LinkedIn and Glassdoor to automaticall add job application information to your kanban board Supported by funding source FastTrack Accelerator launched by LaunchBox Happy Valley. Working with advisors to expand on the product  Demo  Desktop Version: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Bolt Music</title>
+      <link>https://zackdeible.github.io/Deible_Portfolio/p/bolt-music/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zackdeible.github.io/Deible_Portfolio/p/bolt-music/</guid>
+      <description>Current Progress:  Fullstack webapp created with Django and uses Spotifys API that allows users to log into Spotify to see top music and artists based off music history and export top 50 songs into a playlist in your library  In Development:  Apple Music and Spotify Music users can both login and create playlists and share music together Follow friends and other users to see their music tastes and discover music Social Media Feed to share music, playlists, and other music related news to your followers  Demo: </description>
+    </item>
+    
+  </channel>
+</rss>
